@@ -1,0 +1,12 @@
+# Week-3 Python dependencies
+#
+# liboqs-python: official Python bindings for the Open Quantum Safe project's
+# `liboqs` C library, which provides a real implementation of Falcon-512.
+# NOTE: pip installing this package is NOT enough by itself. The first time
+# it is imported, it automatically downloads and compiles the liboqs C
+# library, which requires system-level build tools. See README.md,
+# section "Installation", for the required system prerequisites.
+liboqs-python
+
+# numpy: used only for the small FFT demonstration in fft_demo.py.
+numpy

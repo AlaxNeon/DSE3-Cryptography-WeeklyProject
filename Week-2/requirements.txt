@@ -1,0 +1,8 @@
+# Week-2: Secure Enclave (Intel SGX) Simulation
+#
+# This project uses only Python's standard library:
+#   - hashlib   (built into Python, used for SHA-256 integrity checks)
+#   - unittest  (built into Python, used for the test suite)
+#
+# No external packages need to be installed.
+# This file is kept intentionally empty (aside from these comments).
